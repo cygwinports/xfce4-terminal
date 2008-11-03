@@ -1,0 +1,3 @@
+XFCE_VERSION=4.4.3
+ORIG_PN="Terminal"
+inherit xfce4

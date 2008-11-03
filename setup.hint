@@ -1,0 +1,6 @@
+category: Gnome Shells
+requires: cygwin atk bash exo atk gdk-pixbuf2 glib2 gtk2-x11 libdbus-glib_1_2 libdbus1_3 libexo03 libintl8 libX11_6 libxfce4util startup-notification vte
+sdesc: "Xfce4 virtual terminal"
+ldesc: "Terminal is a lightweight and easy to use terminal emulator for 
+the Xfce4 desktop, with some new ideas and features that makes it 
+unique among X terminal emulators."
