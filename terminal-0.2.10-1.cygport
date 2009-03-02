@@ -1,0 +1,6 @@
+XFCE_VERSION=4.6.0
+ORIG_PN="Terminal"
+inherit xfce4
+
+terminal_CONTENTS="etc/ usr/bin/Terminal* usr/lib/ usr/share/"
+PKG_IGNORE="usr/bin/terminal"
