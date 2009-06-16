@@ -1,0 +1,5 @@
+XFCE_VERSION=4.6.1
+inherit xfce4
+
+Terminal_CONTENTS="etc/ usr/bin/Terminal* usr/lib/ usr/share/"
+PKG_IGNORE="usr/bin/terminal"
