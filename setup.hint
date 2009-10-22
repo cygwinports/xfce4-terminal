@@ -1,4 +1,4 @@
-category: Gnome Shells
+category: Shells Xfce
 requires: bash exo libatk1.0_0 libdbus-glib_1_2 libdbus1_3 libexo0.3_0 libgcc1 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk2.0_0 libpango1.0_0 libstartup-notification1_0 libvte9 libX11_6 libxfce4util4
 sdesc: "Xfce4 virtual terminal"
 ldesc: "Terminal is a lightweight and easy to use terminal emulator for 
