@@ -9,4 +9,6 @@ DESCRIPTION="Terminal is a lightweight and easy to use terminal emulator for
 the Xfce4 desktop, with some new ideas and features that makes it unique among
 X terminal emulators."
 
+if defined ARCH_i686; then
 OBSOLETES="Terminal"
+fi
