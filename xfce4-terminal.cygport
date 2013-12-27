@@ -1,7 +1,7 @@
 inherit xfce4
 
 NAME="xfce4-terminal"
-VERSION=0.6.2
+VERSION=0.6.3
 RELEASE=1
 CATEGORY="Shells Xfce"
 SUMMARY="Xfce4 virtual terminal"
