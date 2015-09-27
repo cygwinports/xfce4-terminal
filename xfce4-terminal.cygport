@@ -2,7 +2,7 @@ inherit xfce4
 
 NAME="xfce4-terminal"
 VERSION=0.6.3
-RELEASE=1
+RELEASE=2
 CATEGORY="Shells Xfce"
 SUMMARY="Xfce4 virtual terminal"
 DESCRIPTION="Terminal is a lightweight and easy to use terminal emulator for
